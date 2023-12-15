@@ -14,3 +14,6 @@ This project is the result of a practical assignment developed within a timefram
 3. Install dependencies with the command `npm install`.
 4. Run the frontend application in development mode with the command `npm run dev`.
 
+### Database
+1. Open MongoDB Compass.
+2. Import the JSON file contained in the project.
