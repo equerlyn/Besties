@@ -1,0 +1,126 @@
+[{
+  "_id": 1,
+  "from": "real__flo",
+  "to": "real__flp",
+  "msg": "Hai",
+  "read": 1,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 2,
+  "from": "real__flo",
+  "to": "real__flp",
+  "msg": "Aku siapa?",
+  "read": 1,
+  "status": 1,
+  "pinned": true
+},
+{
+  "_id": 3,
+  "from": "real__flp",
+  "to": "real__flo",
+  "msg": "https://i.insider.com/602ee9d81a89f20019a377c6?width=1136&format=jpeg",
+  "read": 1,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 4,
+  "from": "real__flp",
+  "to": "real__flo",
+  "msg": "Kamu siapa?",
+  "read": 1,
+  "status": 1,
+  "pinned": true
+},
+{
+  "_id": 5,
+  "from": "real__flo",
+  "to": "real__eve",
+  "msg": "Annyeong",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 6,
+  "from": "real__flp",
+  "to": "real__hdh",
+  "msg": "Hihihihi",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 7,
+  "from": "real__eve",
+  "to": "real__flp",
+  "msg": "Halo",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 8,
+  "from": "real__hdh",
+  "to": "real__eve",
+  "msg": "Iyatah",
+  "read": 1,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 9,
+  "from": "real__flp",
+  "to": "real__eve",
+  "msg": "Gimana",
+  "read": 1,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 10,
+  "from": "real__eve",
+  "to": "real__hdh",
+  "msg": "Lemao",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 11,
+  "from": "real__hdh",
+  "to": "real__eve",
+  "msg": "Halooooooo",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 12,
+  "from": "real__flo",
+  "to": "real__flp",
+  "msg": "Halo",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 13,
+  "from": "real__flo",
+  "to": "real__flp",
+  "msg": "AKU BINGUNG BANGET",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+},
+{
+  "_id": 14,
+  "from": "real__flo",
+  "to": "real__flp",
+  "msg": "SOAL PRAKTIKUM SUSAH BANGET",
+  "read": 0,
+  "status": 1,
+  "pinned": false
+}]

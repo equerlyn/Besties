@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6564a1e2e89d07850f63e990"
+  },
+  "username": "real__flp",
+  "password": "123",
+  "phoneNumber": "082212345678",
+  "friends": [
+    "real__hdh",
+    "real__pcy",
+    "real__flo",
+    "real__eve"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6564a1e2e89d07850f63e991"
+  },
+  "username": "real__hdh",
+  "password": "123",
+  "phoneNumber": "08112345678",
+  "friends": [
+    "real__flp",
+    "real__flo",
+    "real__eve"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6564a1e2e89d07850f63e992"
+  },
+  "username": "real__pcy",
+  "password": "123",
+  "phoneNumber": "08112345678",
+  "friends": [
+    "real__flp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6564a1e2e89d07850f63e993"
+  },
+  "username": "real__eve",
+  "password": "123",
+  "phoneNumber": "08112345678",
+  "friends": [
+    "real__flp",
+    "real__flo",
+    "real__hdh"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6564a1e2e89d07850f63e994"
+  },
+  "username": "real__flo",
+  "password": "123",
+  "phoneNumber": "08112345678",
+  "friends": [
+    "real__eve",
+    "real__hdh",
+    "real__flp"
+  ]
+}]
